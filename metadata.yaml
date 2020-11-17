@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/weborama/"
+versions:
+  - sha: 304238d2bf416cd86a7e055d1b4c8d700cb119f6
+    changeNotes: Initial release
